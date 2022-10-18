@@ -8,4 +8,6 @@
  <li>Gerador de números aleátorios entre o Menor e o Maior</li>
  <li>Programação feita com JavaScript | HTML | CSS.</li>
  </ul>
+  
+ <img src="Image Generator.png" alt="Gerador">
  
